@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navigation{
+    border: violet soil 1px;
+    background-color: gray;
+    padding: 5px;
+}
+label{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+input{
+    font-size: 18px;
+    color: blue;
+}
+label,input{
+    margin-inline: 3px;
+}
